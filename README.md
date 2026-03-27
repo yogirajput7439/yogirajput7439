@@ -1,38 +1,72 @@
-# Yogirajput7439
+# 👋 Hi, I'm Yogesh Mandawat
 
-<h1 align="center">Hi 👋, I'm Yogesh Mandawat</h1>
-<h3 align="center">A passionate Data Scientist Student from India</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogirajput7439&label=Profile%20views&color=0e75b6&style=flat" alt="yogirajput7439" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/yogeshmandwat" target="blank"><img src="https://img.shields.io/twitter/follow/yogeshmandwat?logo=twitter&style=for-the-badge" alt="yogeshmandwat" /></a> </p>
+## 🌟 About Me
 
-- 🔭 I’m currently working on **Model Training In ML**
+* 🔭 Currently working on **Machine Learning Model Training**
+* 🌱 Learning **Data Science, ML Algorithms & Real-world Projects**
+* 👯 Looking to collaborate on **ML / AI Projects**
+* 💬 Ask me about **Python, ML & My Learning Journey**
+* 📫 Reach me at: **[yogeshmandawat639@gmail.com](mailto:yogeshmandawat639@gmail.com)**
+* ⚡ Fun fact: *I love meeting new people & learning new things* 😄
 
-- 🌱 I’m currently learning **Computer Science Student**
+---
 
-- 👯 I’m looking to collaborate on **ML projects**
+## 🌐 Connect With Me
 
-- 💬 Ask me about **My Journey..!**
-
-- 📫 How to reach me **yogeshmandawat639@gmail.com**
-
-- ⚡ Fun fact **I Always like to Meet New Person 😊**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yogeshmandwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogeshmandwat" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yogesh-mandawat-041418373/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogeshmandawt" height="30" width="40" /></a>
-<a href="https://instagram.com/yogi_rajput__7439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogirajput7439" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@technical_yogi_2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@logicalyogi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yogirajput7439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yogirajput7439" height="30" width="40" /></a>
+<a href="https://twitter.com/yogeshmandwat"><img src="https://img.shields.io/twitter/follow/yogeshmandwat?logo=twitter&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/yogesh-mandawat-041418373/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://instagram.com/yogi_rajput__7439"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
+<a href="https://www.youtube.com/@technical_yogi_2710"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" /></a>
+<a href="https://www.leetcode.com/yogirajput7439"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogirajput7439&show_icons=true&locale=en&layout=compact" alt="yogirajput7439" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yogirajput7439&show_icons=true&locale=en" alt="yogirajput7439" /></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,mysql,pytorch,tensorflow,sklearn" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogirajput7439&" alt="Yogirajput7439" /></p>
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yogirajput7439&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogirajput7439&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogirajput7439&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Add your best projects here (very important for recruiters)
+
+* 🧠 **ML Classification Model**
+* 📊 **Data Analysis Project**
+* 🤖 **AI Chatbot Project**
+* 📈 **Prediction System**
+
+---
+
+## 🌐 Portfolio Website
+
+🚀 Coming Soon... (GitHub Pages)
+
+---
+
+## 🔥 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Yogirajput7439&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
