@@ -11,7 +11,7 @@
 * 👯 Looking to collaborate on **ML / AI Projects**
 * 💬 Ask me about **Python, ML & My Learning Journey**
 * 📫 Reach me at: **[yogeshmandawat639@gmail.com](mailto:yogeshmandawat639@gmail.com)**
-* ⚡ Fun fact: *I love meeting new people & learning new things* 😄
+* ⚡ Fun fact: *I love meeting new people & learning new things from all* 😄
 
 ---
 
