@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogirajput7439&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogirajput7439&theme=tokyonight" />
 </p>
 
 ---
@@ -68,5 +68,5 @@
 ## 🔥 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Yogirajput7439&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=yogirajput7439&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
