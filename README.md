@@ -35,6 +35,7 @@
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -42,11 +43,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogirajput7439&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogirajput7439&theme=tokyonight" />
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🚀 Featured Projects
 
