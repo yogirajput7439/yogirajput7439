@@ -55,6 +55,8 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
+
 ## 🚀 Featured Projects
 
 🔹 Add your best projects here (very important for recruiters)
