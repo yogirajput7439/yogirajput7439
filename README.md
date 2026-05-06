@@ -8,7 +8,7 @@
 
 * 🔭 Currently working on **Machine Learning Model Training**
 * 🌱 Learning **Data Science, ML Algorithms & Real-world Projects**
-* 👯 Looking to collaborate on **ML / AI Projects**
+* 👯 Looking to collaborate on **Machine Learning / AI Projects**
 * 💬 Ask me about **Python, ML & My Learning Journey**
 * 📫 Reach me at: **[yogeshmandawat639@gmail.com](mailto:yogeshmandawat639@gmail.com)**
 * ⚡ Fun fact: *I love meeting new people & learning new things from all* 😄
