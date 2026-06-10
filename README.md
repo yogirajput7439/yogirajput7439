@@ -18,7 +18,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/yogeshmandwat"><img src="https://img.shields.io/twitter/follow/yogeshmandwat?logo=twitter&style=for-the-badge" /></a>
+<a href="https://twitter.com/yogeshmandawat"><img src="https://img.shields.io/twitter/follow/yogeshmandwat?logo=twitter&style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/yogesh-mandawat-041418373/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://instagram.com/yogi_rajput__7439"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
 <a href="https://www.youtube.com/@technical_yogi_2710"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" /></a>
