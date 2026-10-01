@@ -10,7 +10,7 @@
 * 🌱 Learning **Data Science, ML Algorithms & Real-world Projects**
 * 👯 Looking to collaborate on **Machine Learning / AI Projects**
 * 💬 Ask me about **Python, ML & My Learning Journey**
-* 📫 Reach me at: **[yogeshmandawat2003@gmail.com](mailto:yogeshmandawat639@gmail.com)**
+* 📫 Reach me at: **[yogeshmandawat2003@gmail.com](mailto:yogeshmandawat.ml@gmail.com)**
 * ⚡ Fun fact: *I love meeting new people & learning new things from all* 😄
 
 ---
