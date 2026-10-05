@@ -1,21 +1,39 @@
-# 👋 Hi, I'm Yogesh Mandawat
+# 👋 Yogesh Mandawat
 
-<h3 align="center">🤖 Machine Learning Engineer | AI/ML | Python</h3>
+<h3 align="center">
+  Machine Learning Engineer · AI/ML · Python
+</h3>
+
+<p align="center">
+  Building intelligent systems, machine learning solutions, and production-ready AI applications.
+</p>
+
+---
+
+## About Me
+
+I build **Machine Learning and AI systems** with a focus on transforming data and models into practical, production-oriented solutions.
+
+* **Machine Learning** — model development, evaluation, feature engineering & optimization
+* **Deep Learning** — neural networks, CNNs, RNNs & PyTorch
+* **NLP & Generative AI** — modern language models and AI applications
+* **ML Engineering** — pipelines, APIs, deployment & Docker
+* **Data & Backend** — Python, SQL, Flask, Pandas & NumPy
+
+### Core Technologies
+
+`Python` · `Scikit-learn` · `PyTorch` · `Pandas` · `NumPy` · `SQL` · `Flask` · `Docker` · `Git`
 
 ---
 
-## 🌟 About Me
+### Focus
 
-* 🤖 Building **Machine Learning and AI systems** focused on real-world applications
-* 🧠 Working with **Machine Learning, Deep Learning, NLP & Generative AI**
-* ⚙️ Developing end-to-end ML workflows including **data preprocessing, feature engineering, model training, evaluation, pipelines & deployment**
-* 🛠️ Technical stack: **Python, Scikit-learn, PyTorch, Pandas, NumPy, SQL, Flask & Docker**
-* 🚀 Focused on building **production-ready ML applications and scalable AI solutions**
-* 🤝 Open to collaborating on **Machine Learning, Deep Learning & AI projects**
-* 📫 Reach me at: **[yogeshmandawat.ml@gmail.com](mailto:yogeshmandawat.ml@gmail.com)**
-* ⚡ **Building intelligent systems with ML, one project at a time.**
+> **Building reliable ML systems that move beyond experimentation into real-world applications.**
+
+📫 **Contact:** [yogeshmandawat.ml@gmail.com](mailto:yogeshmandawat.ml@gmail.com)
 
 ---
+
 
 
 ## 🌐 Connect With Me
