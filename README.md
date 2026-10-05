@@ -1,19 +1,22 @@
 # 👋 Hi, I'm Yogesh Mandawat
 
-<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
+<h3 align="center">🤖 Machine Learning Engineer | AI/ML | Python</h3>
 
 ---
 
 ## 🌟 About Me
 
-* 🔭 Currently working on **Machine Learning Model Training**
-* 🌱 Learning **Data Science, ML Algorithms & Real-world Projects**
-* 👯 Looking to collaborate on **Machine Learning / AI Projects**
-* 💬 Ask me about **Python, ML & My Learning Journey**
+* 🤖 Building **Machine Learning and AI systems** focused on real-world applications
+* 🧠 Working with **Machine Learning, Deep Learning, NLP & Generative AI**
+* ⚙️ Developing end-to-end ML workflows including **data preprocessing, feature engineering, model training, evaluation, pipelines & deployment**
+* 🛠️ Technical stack: **Python, Scikit-learn, PyTorch, Pandas, NumPy, SQL, Flask & Docker**
+* 🚀 Focused on building **production-ready ML applications and scalable AI solutions**
+* 🤝 Open to collaborating on **Machine Learning, Deep Learning & AI projects**
 * 📫 Reach me at: **[yogeshmandawat.ml@gmail.com](mailto:yogeshmandawat.ml@gmail.com)**
-* ⚡ Fun fact: *I LOVE TO BUILD AI SYSTEMS AND ML MODELS..* 😄
+* ⚡ **Building intelligent systems with ML, one project at a time.**
 
 ---
+
 
 ## 🌐 Connect With Me
 
@@ -70,7 +73,7 @@
 
 ## 🌐 Portfolio Website
 
-🚀 Coming Soon... (GitHub Pages)
+https://yogirajput7439.github.io/Portfolio/
 
 ---
 
